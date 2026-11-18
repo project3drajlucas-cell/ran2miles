@@ -1,0 +1,6 @@
+{
+  "name": "Orbit Stack",
+  "description": "Minimalist 3D physics arcade game where you balance and stack geometric blocks atop a floating orbital pedestal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
